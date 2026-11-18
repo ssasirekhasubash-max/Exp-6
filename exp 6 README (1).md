@@ -125,7 +125,6 @@ MAE: 4.914708682516378
 MSE: 38.16296859775095
 RMSE: 6.177618359671545
 
-
-
+ 
 ## Result
 Thus, the ARIMA model was successfully implemented to forecast future time series values. Its prediction performance was evaluated using MAE, MSE and RMSE metrics. Lower error values indicate better forecasting accuracy.
